@@ -314,6 +314,9 @@ body {
   width: 631px;
   height: 76px;
   border-radius: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .subscribe {
   margin-top: 36px;
